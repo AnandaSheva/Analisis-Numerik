@@ -8,6 +8,7 @@ Original file is located at
 
 Nama : Ananda Sheva Hidayat
 NPM : 2217051096
+Kelas : B
 """
 
 import sympy as sp
